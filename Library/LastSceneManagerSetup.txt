@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BxB Studio/MVC Getting Started/Scenes/DefaultScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

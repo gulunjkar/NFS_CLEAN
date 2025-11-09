@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "dev.bxbstudio.inputs-manager": {
+      "tarball": {
+        "hash": "09bea2d01eed4966389529b764e39f7b",
+        "mtime": 1744899182000,
+        "size": 560935,
+        "localPath": "C:\\Users\\DELL\\Desktop\\Create With Code\\3d\\Assets\\BxB Studio\\MVC Installer\\Packages\\dev.bxbstudio.inputs-manager@1.1.16.tgz"
+      }
+    },
+    "dev.bxbstudio.mvc.community": {
+      "tarball": {
+        "hash": "37bce3904ad65a822d59e509d17ed1a9",
+        "mtime": 1744899189000,
+        "size": 527093827,
+        "localPath": "C:\\Users\\DELL\\Desktop\\Create With Code\\3d\\Assets\\BxB Studio\\MVC Installer\\Packages\\dev.bxbstudio.mvc.community@1.4.2-beta.3.tgz"
+      }
+    },
+    "dev.bxbstudio.utilities": {
+      "tarball": {
+        "hash": "109cdc81f1ceb20846ebb19fff7cf24f",
+        "mtime": 1744899229000,
+        "size": 1453691,
+        "localPath": "C:\\Users\\DELL\\Desktop\\Create With Code\\3d\\Assets\\BxB Studio\\MVC Installer\\Packages\\dev.bxbstudio.utilities@1.1.10.tgz"
+      }
+    }
+  }
+}
